@@ -1,0 +1,46 @@
+Project:
+ Name: BIA_SOFTWARE_OPTIX
+ GUID: 83cd4e8ad81f905c69186978354ecc51
+ ProjectNamespaceIndex: 7
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.5
+ CoreVersion: 4.0
+ EncryptionVersion: 1
+ EncryptionMode: Secrets
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 4.0
+  3:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 14.2
+  4:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 6.5
+  5:
+   Uri: 'urn:FTOptix:NativeUI'
+   Module: FTOptix.NativeUI
+   Version: 2.1
+  6:
+   Uri: 'urn:FTOptix:Retentivity'
+   Module: FTOptix.Retentivity
+   Version: 1.0
+ Statistics:
+  TotalNodeCount: 118
+  Objects: 67
+  ObjectTypes: 1
+  Variables: 50
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 0
+  ReferenceTypes: 0
+  Files: 21
+ Nodes:
+ - File: Nodes/BIA_SOFTWARE_OPTIX.yaml
