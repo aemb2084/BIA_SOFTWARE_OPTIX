@@ -1,2 +1,9 @@
 Name: NetLogic
 Type: NetLogicCategoryFolder
+Children:
+- Name: Main
+  Id: g=6a1eedc3ca6d09a9fcf857b02a543147
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: Method1
